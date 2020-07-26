@@ -1,0 +1,13 @@
+package co.in.gmail.login;
+
+import org.testng.annotations.Test;
+
+public class LoinToGmail 
+{
+	@Test
+	public void login()
+	{
+		
+	}
+
+}
